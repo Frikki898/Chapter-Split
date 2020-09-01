@@ -2,6 +2,10 @@
 Splits mp3 audiobooks into chapters by detecting long silent pauses in the mp3 file
 
 ## Prerequisites
+mutagen must be installed using pip
+```
+pip install mutagen
+```
 Python and ffmpeg must be installed
 windows users must also have these programs added to path
 
